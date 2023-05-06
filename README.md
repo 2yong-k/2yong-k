@@ -1,6 +1,9 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling)
-</div>
+<p align="center">
+  <a href="https://github.com/2yong-k">
+    <img aling="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling" />
+  </a>
+<!--   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&fontSize=50&animation=twinkling) -->
+</p>
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/2yong-k">
